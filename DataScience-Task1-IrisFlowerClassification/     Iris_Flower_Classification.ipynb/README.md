@@ -1,5 +1,14 @@
 # Iris Flower Classification
 
+
+## OASIS INFOBYTE Internship
+
+**Name:** Dinesh Yadav  
+**Track:** Data Science  
+**Task:** Task 1  
+**Project:** IrisFlowerClassification.
+
+
 ##  Project Overview
 
 This project focuses on classifying iris flowers into different species using Machine Learning techniques.
@@ -77,7 +86,7 @@ The model performance is evaluated using classification metrics such as:
 ## Project Structure
 
 ```text
-DataScience-L1-IrisFlowerClassification/
+DataScience-task1-IrisFlowerClassification/
 │
 ├── Iris_Flower_Classification.ipynb
 └── README.md
